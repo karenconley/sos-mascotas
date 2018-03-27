@@ -1,7 +1,7 @@
 # SOS Mascotas
 SOS Mascotas es una app diseñada para encontrar centros veterinarios cerca de ti, saber cuáles están abiertos en la noche y para conseguir transporte para tu mascota
 
-![App SOS Mascotas](assets/img/app.jpg)
+![logo-ancho](https://user-images.githubusercontent.com/32284471/37968105-a66c36f2-31a3-11e8-8951-280e0213f03d.png)
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
 
