@@ -66,6 +66,22 @@ En cuanto a los tipos de emergencia que han vivido, son muy diversos, desde cuad
 
 ![encuesta](assets/img/encuesta-8-emergencias.jpg)
 
+## Affinity Map
+
+Se realizó un Diagrama de Afinidad, agrupando las problemáticas que más se repetían entre la gente consultada, para visualizar de mejor manera los principales puntos de dolor.
+
+La mayor queja de la gente fue que hay muy pocos centros veterinarios que atienden las 24 hrs, quedan lejos o los que dicen serlo tienen cerrado en la noche.
+
+![Affinity](assets/img/Affinity-Map-00)
+![Affinity](assets/img/Affinity-Map-01)
+![Affinity](assets/img/Affinity-Map-02)
+![Affinity](assets/img/Affinity-Map-03)
+![Affinity](assets/img/Affinity-Map-04)
+![Affinity](assets/img/Affinity-Map-05)
+![Affinity](assets/img/Affinity-Map-06)
+![Affinity](assets/img/Affinity-Map-06b)
+![Affinity](assets/img/Affinity-Map-06c)
+
 ## Conclusiones y objetivos
 
 - Si ocurre una emergencia dentro del horario normal de atención (por lo general de 9 a 20 hrs) saben donde acudir. Principalmente al centro veterinario donde sus mascotas son pacientes habituales y con los médicos que ya conocen.
