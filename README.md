@@ -73,15 +73,15 @@ Se realizó un Diagrama de Afinidad, agrupando las problemáticas que más se re
 
 La mayor queja de la gente fue que hay muy pocos centros veterinarios que atienden las 24 hrs, quedan lejos o los que dicen serlo tienen cerrado en la noche.
 
-![Affinity](assets/img/Affinity-Map-00)
-![Affinity](assets/img/Affinity-Map-01)
-![Affinity](assets/img/Affinity-Map-02)
-![Affinity](assets/img/Affinity-Map-03)
-![Affinity](assets/img/Affinity-Map-04)
-![Affinity](assets/img/Affinity-Map-05)
-![Affinity](assets/img/Affinity-Map-06)
-![Affinity](assets/img/Affinity-Map-06b)
-![Affinity](assets/img/Affinity-Map-06c)
+![Affinity](assets/img/Affinity-Map-00.jpg)
+![Affinity](assets/img/Affinity-Map-01.jpg)
+![Affinity](assets/img/Affinity-Map-02.jpg)
+![Affinity](assets/img/Affinity-Map-03.jpg)
+![Affinity](assets/img/Affinity-Map-04.jpg)
+![Affinity](assets/img/Affinity-Map-05.jpg)
+![Affinity](assets/img/Affinity-Map-06.jpg)
+![Affinity](assets/img/Affinity-Map-06b.jpg)
+![Affinity](assets/img/Affinity-Map-06c.jpg)
 
 ## Conclusiones y objetivos
 
