@@ -5,7 +5,7 @@ SOS Mascotas es una app móvil de ayuda ante emergencias veterinarias. Mediante 
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
 
-# Primera parte: Descubrimiento
+## Primera parte: Descubrimiento
 Navegando por Facebook, específicamente en redes de mascotas, tenencia responsable, adopciones y ayuda a animales abandonados, es común encontrar a usuarios que ante una eventualidad no saben a dónde dirigirse.
 
 ![Datos](assets/img/rrss-donde-01.jpg)
@@ -23,9 +23,9 @@ Estos usuarios hacen una publicación preguntando datos cercanos y por sobre to
 Por ello nació la inquietud de cómo ayudar a aquellos casos en donde la persona, desorientada, busca un lugar (con características específicas como precio, cercanía, horario, etc) para acudir de urgencia.
 Es decir, sabe dónde acudir ante una emergencia veterinaria, optimizando el tiempo: que sea un lugar cercano y que atiendan de inmediato.
 
-# Segunda parte: Research
+## Segunda parte: Research
 
-## Encuestas y entrevistas
+### Encuestas y entrevistas
 
 Ante este panorama, realicé una pequeña encuesta de Facebook en algunos de estos grupos de ayuda a animales, enfocada a las atenciones de urgencia.
 Las encuestas arrojaron dos panoramas muy diferentes: si tuvieran una emergencia en horario normal (de día, en la semana), un 68% de las personas afirmó saber a donde dirigirse.
@@ -67,7 +67,7 @@ En cuanto a los tipos de emergencia que han vivido, son muy diversos, desde cuad
 
 ![encuesta](assets/img/encuesta-8-emergencias.jpg)
 
-## Affinity Map
+### Affinity Map
 
 Se realizó un Diagrama de Afinidad, agrupando las problemáticas que más se repetían entre la gente consultada, para visualizar de mejor manera los principales puntos de dolor.
 
@@ -83,7 +83,7 @@ La mayor queja de la gente fue que hay muy pocos centros veterinarios que atiend
 ![Affinity](assets/img/Affinity-Map-06b.JPG)
 ![Affinity](assets/img/Affinity-Map-06c.JPG)
 
-## Conclusiones y objetivos
+### Conclusiones y objetivos
 
 - Si ocurre una emergencia dentro del horario normal de atención (por lo general de 9 a 20 hrs) saben donde acudir. Principalmente al centro veterinario donde sus mascotas son pacientes habituales y con los médicos que ya conocen.
 
@@ -97,13 +97,13 @@ Estos mismos problemas se repetían en las entrevistas presenciales. Escuchar a
 
 Entendido esto, el objetivo es resolver de mejor manera las conflictos recién mencionados, integrando los datos recopilados y las características de los usuarios. Brindarles la información y los servicios necesarios para mejorar la experiencia.
 
-## User person
+### User person
 
 En el contexto donde se realizaron las encuestas y las entrevistas, se pudo concluir que el user person principal sería un usuario consciente de la responsabilidad que conlleva tener un animal adoptado y que se preocupa de que reciba la calidad de atención adecuada ante un problema.
 
 ![user person](assets/img/user-principal.jpg)
 
-## Investigación de mercado
+### Investigación de mercado
 
 Considerando todo lo anterior, especialmente el factor común de que el público está muy conectado a internet, y que una emergencia implica trasladarse de un punto A a un punto B y para ello se necesita movilidad, se pensó en la creación de una app para dispositivos móviles.
 Buscando en las tiendas digitales de aplicaciones, se encontraron dos dedicadas al cuidado y rescate de los animales: “Wof” y “Laika”. Están enfocadas en la tenencia responsable, donde permiten crear fichas de los animales para registrar vacunas, paseos, ofertas de productos y registrar animales abandonados o heridos a través de GPS para ayudar a su rescate. Pero ninguna de las dos cubre las problemáticas de este estudio.
@@ -118,7 +118,7 @@ Además, no en todos los resultados muestra los datos completos. Algunos nos en
 ![web](assets/img/otras-webs-1.jpg)
 ![web](assets/img/otras-webs-2.jpg)
 
-# Tercera parte: creación del producto
+## Tercera parte: creación del producto
 
 Con todos los datos recopilados como los problemas de presupuesto, desplazamiento, lugares cerrados por la hora o día, sus preocupaciones de fijarse en la reputación de un lugar, información incompleta en la web, etc. se llegó a la conclusión de que la app debía juntar todo esto y **ser un foco de información completa y fidedigna, actualizada y colaborativa entre usuarios, donde se ahorra tiempo en la búsqueda, entrega información actualizada, basada en la corroboración de datos y en la experiencia de las personas, que tienen en común un gran valor: el amor por los animales.**
 
